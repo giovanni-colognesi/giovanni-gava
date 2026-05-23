@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/giovanni-colognesi/giovanni-gava/main/profile-summary-card-output/great_gatsby/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/giovanni-colognesi/giovanni-gava/main/profile-summary-card-output/great_gatsby/4-productive-time.svg)
-```
-
-    
