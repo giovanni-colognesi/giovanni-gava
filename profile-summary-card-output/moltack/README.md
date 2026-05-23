@@ -42,3 +42,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/giovanni-colognesi/giovanni-gava/main/profile-summary-card-output/moltack/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/giovanni-colognesi/giovanni-gava/main/profile-summary-card-output/moltack/4-productive-time.svg)
+```
+
+    
