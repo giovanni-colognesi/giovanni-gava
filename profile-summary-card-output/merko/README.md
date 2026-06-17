@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/giovanni-colognesi/giovanni-gava/main/profile-summary-card-output/merko/4-productive-time.svg)
-```
-
-    

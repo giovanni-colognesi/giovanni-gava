@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/giovanni-colognesi/giovanni-gava/main/profile-summary-card-output/city_lights/4-productive-time.svg)
-```
-
-    
