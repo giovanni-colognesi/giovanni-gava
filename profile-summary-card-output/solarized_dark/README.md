@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/giovanni-colognesi/giovanni-gava/main/profile-summary-card-output/solarized_dark/4-productive-time.svg)
+```
+
+    
